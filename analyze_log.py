@@ -10,7 +10,7 @@ def analyze_log_file(filename="access.log"):
     2. (Optional) Implement the `count_status_codes` function to count occurrences of each status code.
 
     This function opens the log file, reads each line, and performs analysis based on the extracted data.
-    """
+    """ 
 
     try:
         # open the access.log file and read the lines into a list (ideally named log_lines if you want to use the code from the instruction page)
